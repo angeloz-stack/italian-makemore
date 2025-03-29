@@ -1,6 +1,3 @@
-fonte: https://gist.github.com/pdesterlich/2562329
-----------------
-
 abaco
 abbondanza
 abbondanzia
